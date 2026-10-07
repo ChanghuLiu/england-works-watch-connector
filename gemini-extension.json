@@ -1,0 +1,10 @@
+{
+  "name": "england-works-watch-connector",
+  "version": "1.0.0",
+  "description": "Evidence-linked UK Skilled Worker sponsor-change preflight and compliance monitoring.",
+  "mcpServers": {
+    "england-works-watch": {
+      "httpUrl": "https://works.regevidencehub.com/mcp"
+    }
+  }
+}
